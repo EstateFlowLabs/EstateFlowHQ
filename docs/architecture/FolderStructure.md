@@ -35,3 +35,13 @@ platform/
 ├── pnpm-workspace.yaml
 ├── README.md
 └── .env.example
+
+
+# Note
+## Use pnpm first  
+## Raise pr like this
+
+  Example:
+  
+        feat(frontend): add login page UI
+        fix(backend): resolve JWT validation issue
