@@ -1,0 +1,15 @@
+# Global Owner
+* @Sevinjeno
+
+# Frontend
+/apps/web/ @Sevinjeno
+
+# Backend
+/apps/api/ @Sevinjeno
+
+# Admin
+/apps/admin/ @Sevinjeno
+
+# Shared Packages
+/packages/ui/ @Sevinjeno
+/packages/types/ @Sevinjeno
